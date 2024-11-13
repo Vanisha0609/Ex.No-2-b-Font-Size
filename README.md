@@ -19,7 +19,7 @@ Step 1: Create a New Android Project:
               package name.
               • Choose a launcher icon for your application and then select Blank Activity and then click
               Next
-              • Provide the desired Activity name for your project and then click Finish.
+              • Provide the desired Activity name for your project and then click Finish.add<br/> 
 
 Step 2: Create a New AVD (Android Virtual Device):
         • click Android Virtual Device Manager from the toolbar.
@@ -27,17 +27,17 @@ Step 2: Create a New AVD (Android Virtual Device):
         • Fill in the details for the AVD. Give it a name, a platform target, an SD card size, and
         a skin (HVGA is default).
         • Click Create AVD and Select the new AVD from the Android Virtual Device
-        Manager and click Start.
+        Manager and click Start.<br/>
 
-Step 3: Design the graphical layout with a text view and two command buttons.
+Step 3: Design the graphical layout with a text view and two command buttons.<br/>
 
-Step 4: Run the application.
+Step 4: Run the application.<br/>
 
-Step 5:On pressing the change font size button, the size of the font gets altered.
+Step 5:On pressing the change font size button, the size of the font gets altered.<br/>
 
-Step 6: On pressing the Color button, the color of the text altered.
+Step 6: On pressing the Color button, the color of the text altered.<br/>
       
-Step 6:Close the Android project. 
+Step 6:Close the Android project. <br/>
 
 
 ## Program:
