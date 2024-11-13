@@ -154,12 +154,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## Output:
 <img src ="https://github.com/user-attachments/assets/b8c9c2bc-a0f2-4136-a8ef-3ed1116e6dd4" width="250" height="500">
-
-
-
-
-
-
+&ensp;
 
 
 <img src ="https://github.com/user-attachments/assets/7fc18869-68a9-4752-9e83-a5ba2ab216f0" width="250" height="500">
